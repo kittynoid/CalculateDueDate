@@ -1,0 +1,1 @@
+The tests and the main module are in the venv folder. You can run the sript by running the CalculateDueDateModule.py arg1 arg2 command in the console. arg1 is the submit time and arg2 is the turnaround time. Submit time is in ISO 8601 format, the script only accepts this type of format. 
